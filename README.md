@@ -1,0 +1,4 @@
+# GYM_FORM
+A bicep-curl pose detection using python, developed as a summer internship project during 3rd semester
+
+THIS APPLICATION IS BASED ON PYTHON'S MEDIAPIPE MODULE AND CAN HELP USES OPENCV MODULE FOR ARTIFICIAL INTELLIGENCE CALCULATION AND ALGORITMS 
